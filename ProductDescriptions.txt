@@ -1,0 +1,10 @@
+1 6.5 Kola 
+2 10 Bira 
+3 4 Su 
+4 5 Sigara 
+5 2 TavukEti 
+6 1.99 Somon 
+7 15 Makarna TRY
+8 3.65 Puro 
+9 7 Raki 
+10 8 Product10 GBP
